@@ -1,0 +1,121 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孫子
+#+DATE: 2016-08-10 10:16:56
+#+PROPERTY: ID KR3b0003
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 1
+#+PROPERTY: CAT 1pre-han,科學技術,軍事
+
+# dating: 8110
+<pb:KR3b0003_tls_002-1a>¶
+** 2 《作戰篇》
+
+孫子曰：¶
+凡用兵之法，¶
+馳車千駟，¶
+革車千乘，¶
+帶甲十萬，¶
+千里饋糧，¶
+
+# src: SUN 2.1.2 tr. Giles 1910: 9. See Guo Huaruo 1962: 21-22; Wu Jiulong 1991: 20; Li Ling 1997: 36, tr. Ames 1993: 107, tr. Sawyer 1993: 159
+# dating: 8110
+則內外之費，賓客之用，¶
+膠漆之材，¶
+車甲之奉，¶
+日費千金，¶
+然後十萬之師舉矣。¶
+
+# src: SUN 2.2.1 tr. Giles 1910: 10-12. See Guo Huaruo 1962: 22-24 Wu Jiulong 1991: 21-23; Li Ling 1997: 36-37, tr. Ames 1993: 107, tr. Sawyer 1993: 159
+# dating: 8110
+其用戰也
+勝，¶久
+則鈍兵挫銳，¶
+攻城
+則力屈，¶
+久暴師
+則國用不足。¶
+
+# src: SUN 2.2.2 tr. Giles 1910: 10-12. See Guo Huaruo 1962: 22-24 Wu Jiulong 1991: 21-23; Li Ling 1997: 36-37, tr. Ames 1993: 107, tr. Sawyer 1993: 159
+# dating: 8110
+夫鈍兵挫銳，¶
+屈力殫貨，¶
+則諸侯乘其弊而起，¶
+雖有智者，¶
+不能善其後矣。¶
+
+# src: SUN 2.2 tr. Giles 1910: 10-12. See Guo Huaruo 1962: 22-24 Wu Jiulong 1991: 21-23; Li Ling 1997: 36-37, tr. Ames 1993: 107, tr. Sawyer 1993: 159
+# dating: 8110
+故兵聞拙速，¶
+未睹巧之久也。¶
+夫兵久而國利者，¶
+未之有也。¶
+故不盡知用兵之害者，¶
+則不能盡知用兵之利也。
+
+# src: SUN 2.3.1 tr. Giles 1910: 12. See Guo Huaruo 1962: 24-26 Wu Jiulong 1991: 23-24; Li Ling 1997: 37, tr. Ames 1993: 107-108, tr. Sawyer 1993: 159-160
+# dating: 8110
+<pb:KR3b0003_tls_002-2a>¶
+善用兵者，¶
+役不再籍，¶
+糧不三載；¶
+取用於國，¶
+因糧於敵，¶
+故軍食可足也。
+
+# src: SUN 2.4 tr. Giles 1910: 13-14. See Guo Huaruo 1962: 26-27 Wu Jiulong 1991: 25-28; Li Ling 1997: 37, tr. Ames 1993: 108, tr. Sawyer 1993: 160
+# dating: 8110
+<pb:KR3b0003_tls_002-3a>¶
+國之貧於師者
+遠輸，¶
+遠輸則百姓貧；¶
+近於師者貴賣，¶
+貴賣則百姓財竭，¶
+財竭則急於丘役。¶
+
+# src: SUN 2.3.3 tr. Giles 1910: 13-14. See Guo Huaruo 1962: 26-27 Wu Jiulong 1991: 25-28; Li Ling 1997: 37, tr. Ames 1993: 108, tr. Sawyer 1993: 160
+# dating: 8110
+力屈財殫，中原
+內虛於家，¶
+百姓之費
+十去其七；¶
+公家之費，¶
+破車罷馬，¶
+甲冑矢弩，¶
+戟楯蔽櫓，¶
+丘牛大車，¶
+十去其六。
+
+# src: SUN 2.3.4 tr. Giles 1910: 15. See Guo Huaruo 1962: 28-30 Wu Jiulong 1991: 29-30; Li Ling 1997: 37, tr. Ames 1993: 108, tr. Sawyer 1993: 160
+# dating: 8110
+<pb:KR3b0003_tls_002-4a>¶
+故智將務食於敵，¶
+食敵一鍾，¶
+當吾二十鍾；𦮼¶
+秆一石，¶
+當吾二十石。
+
+# src: SUN 2.6 tr. Giles 1910: 15. See Guo Huaruo 1962: 28-30 Wu Jiulong 1991: 29-30; Li Ling 1997: 37, tr. Ames 1993: 108, tr. Sawyer 1993: 160
+# dating: 8110
+<pb:KR3b0003_tls_002-5a>¶
+故殺敵者，¶
+怒也；¶
+取敵之利者，¶
+貨也。¶
+故車戰
+得車十乘已上，¶
+賞其先得者，¶
+而更其旌旗。¶
+車雜而乘之，¶
+卒善而養之，¶
+是謂勝敵而益強。
+
+# src: SUN 2..3.6 tr. Giles 1910: 15-16. See Guo Huaruo 1962: 30-32 Wu Jiulong 1991: 30-32; Li Ling 1997: 37, tr. Ames 1993: 108-109, tr. Sawyer 1993: 160
+# dating: 8110
+<pb:KR3b0003_tls_002-6a>¶
+故兵貴勝，¶
+不貴久。
+<pb:KR3b0003_tls_002-7a>¶
+故知兵之將，¶
+生民之司命，¶
+國家安危之主也。
+
